@@ -1,0 +1,1 @@
+- There should be no code that has no tests.
