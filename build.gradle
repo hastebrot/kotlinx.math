@@ -47,7 +47,8 @@ dependencies {
 // test source dependencies.
 dependencies {
     // test frameworks and libraries.
-    testCompile "com.winterbe:expekt:0.2.0"
+    testCompile "junit:junit:4.12"
+    testCompile "io.kotlintest:kotlintest:1.2.0"
 }
 
 //-------------------------------------------------------------------------------------------------
