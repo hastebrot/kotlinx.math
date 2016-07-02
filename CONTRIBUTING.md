@@ -1,1 +1,2 @@
 - There should be no code that has no tests.
+- Sample code should be provided as tests that show expected results instead of main functions.
